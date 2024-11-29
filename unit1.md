@@ -158,6 +158,3 @@ Date:   Date
 - Pull the latest changes locally:  
    bash
    git pull origin main
-     
-
-Would you like further elaboration on any of these points?
